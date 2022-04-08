@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Alsaleh</h1>
 <h3 align="center">I'm 17, an iOS app developer, I have 6 apps on the App Store, a programmer and a technician at Techie.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <a href="https://twitter.com/maalsaleh0" target="blank"><img src="https://img.shields.io/twitter/follow/maalsaleh0?logo=twitter&style=for-the-badge" alt="maalsaleh0" /></a> </p>
 
 - 👨‍💻 All of my Apps are available at [AppStore](https://apps.apple.com/sa/developer/mohammed-alsaleh/id1581466887)
