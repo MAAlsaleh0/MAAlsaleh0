@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammed Alsaleh</h1>
+<h3 align="center">I'm 17, an iOS app developer, I have 6 apps on the App Store, a programmer and a technician at Techie.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <a href="https://twitter.com/maalsaleh0" target="blank"><img src="https://img.shields.io/twitter/follow/maalsaleh0?logo=twitter&style=for-the-badge" alt="maalsaleh0" /></a> </p>
 
-<!--
-**MAAlsaleh0/MAAlsaleh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All of my projects are available at [https://myurls.co/malsaleh](https://myurls.co/malsaleh)
 
-Here are some ideas to get you started:
+- 💬 Ask me about **iOS , Swift ,SwiftUI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **MAlsalehh0@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/maalsaleh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maalsaleh0" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maalsaleh0&show_icons=true&locale=en&layout=compact" alt="maalsaleh0">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=maalsaleh0&show_icons=true&locale=en" alt="maalsaleh0">
