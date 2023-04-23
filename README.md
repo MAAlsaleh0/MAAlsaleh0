@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Alsaleh</h1>
-<h3 align="center">I'm 17, an iOS app developer, I have 6 apps on the App Store, a programmer and a technician at Techie.</h3>
+<h3 align="center">I'm 18, an iOS app developer, I have 11 apps on the App Store.</h3>
 
 <p align="left"> <a href="https://twitter.com/maalsaleh0" target="blank"><img src="https://img.shields.io/twitter/follow/maalsaleh0?logo=twitter&style=for-the-badge" alt="maalsaleh0" /></a> </p>
 
